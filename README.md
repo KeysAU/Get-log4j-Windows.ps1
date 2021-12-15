@@ -3,6 +3,10 @@
  Identifying all log4j components across all windows servers, entire domain, can be multi domain. CVE-2021-44228
  
  Will scale to 1,000+ windows servers, 250+ servers at a time. 1k servers took about 1 1/2 hours.
+ 
+ [Apache log4j](https://logging.apache.org/log4j/2.x/)
+ 
+ [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-44228)
 
 # Script Running:
 
