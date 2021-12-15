@@ -42,6 +42,9 @@
         You need to modify --replaceme 
         You need to update info for your domain(s) See line 64.
         You need to uncomment line 36 for first run.
+	
+# Licence:
+	Open-sourced software licensed under the MIT license.
 
 # Author:
          Keith Waterman
