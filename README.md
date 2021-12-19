@@ -1,6 +1,6 @@
 # Get-log4j-Windows.ps1
   
- Identifying all log4j components across all windows servers, entire domain, can be multi domain. CVE-2021-44228
+ Identify all log4j components across all windows servers, entire domain, can be multi domain. CVE-2021-44228
  
  Will scale to 1,000+ windows servers, 250+ servers at a time. 1k servers took about 1 1/2 hours.
  
@@ -8,9 +8,9 @@
  
  [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-44228)
  
-# Single Server Verion:
+Single Server Version:
 
-	Single server now avalaible: (https://github.com/KeysAU/Get-log4j-Windows-local/blob/main/Get-log4j-Windows-local.ps1)
+[Single Server Version](https://github.com/KeysAU/Get-log4j-Windows-local/blob/main/Get-log4j-Windows-local.ps1)
 
 # Script Running:
 
