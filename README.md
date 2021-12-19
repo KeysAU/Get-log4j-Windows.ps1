@@ -10,7 +10,7 @@
  
 # Single Server Verion:
 
-	Single server now avalaible: https://github.com/KeysAU/Get-log4j-Windows-local/blob/main/Get-log4j-Windows-local.ps1
+	Single server now avalaible: (https://github.com/KeysAU/Get-log4j-Windows-local/blob/main/Get-log4j-Windows-local.ps1)
 
 # Script Running:
 
