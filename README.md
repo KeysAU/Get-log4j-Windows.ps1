@@ -7,6 +7,10 @@
  [Apache log4j](https://logging.apache.org/log4j/2.x/)
  
  [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-44228)
+ 
+# Single Server Verion:
+
+	Single server now avalaible: https://github.com/KeysAU/Get-log4j-Windows-local/blob/main/Get-log4j-Windows-local.ps1
 
 # Script Running:
 
