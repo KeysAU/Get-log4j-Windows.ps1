@@ -71,7 +71,7 @@ switch ($Domain) {
     "my.happy.domain.com" { 
         $AdCompSearchPrefix = "--replaceme*" #Enter in your AD Computer object prefix eg Dev for DEVAPP001
         $DnsDomainSuffix = ".--replaceme" # Enter in your Domain names FQDN with a proceeding . eg: .my.happy.domain.com
-        $DnsShortName = "--replaceme" #Enter in your DNS shorname eg DEV for dev.my.happy.domain.com
+        $DnsShortName = "--replaceme" #Enter in your DNS shortname eg DEV for dev.my.happy.domain.com
     }
 }
 
